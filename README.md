@@ -3,10 +3,6 @@
 <center>
 ____Anime And Memes____
 
-<a href="https://github.com/RED-DEMON-ANNOS/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/RED-DEMON-ANNOS?label=Followers&color=red&style=flat-square"></a>
-
-
       FACEBOOK DUMP AND RANDOM CRACK
 </p>
   
@@ -41,7 +37,8 @@ ____Anime And Memes____
 
 ➤ python 7SINS.py
 ```
-
+<a href="https://github.com/RED-DEMON-ANNOS/followers">
+<img title="Followers" src="https://img.shields.io/github/followers/RED-DEMON-ANNOS?label=Followers&color=red&style=flat-square"></a>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RED-DEMON-ANNOS.visitor-badge&left_text=MyPageVisitors)
 #### MY SOCIAL MEDIA
 
