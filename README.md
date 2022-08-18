@@ -1,5 +1,5 @@
 # TOOL 7SINS #
-<img src="https://github.com/RED-DEMON-ANNOS/RED-DEMON-ANNOS/blob/main/IMAGEI/Demon.jpg" width="240" height="240" align="center">
+<img src="https://github.com/RED-DEMON-ANNOS/RED-DEMON-ANNOS/blob/main/IMAGEI/FB_IMG_16557430804770182.jpg" width="240" height="240" align="center">
 <center>
 ____Programming And Memes____
 
@@ -49,6 +49,5 @@ ____Programming And Memes____
 [![](https://img.shields.io/badge/Facebook-red?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/MR.ANNOS007) <br>
 [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/annos_007) <br>
 
-
-<h2> THANKS FOR VISIT  <h2\>
+<h2> THANKS FOR VISITING  <h2\>
 
