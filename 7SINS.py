@@ -1,2 +1,2 @@
-from zsins import main
-main()
+from zsins import menu
+menu()
