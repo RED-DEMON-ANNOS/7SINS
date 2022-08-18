@@ -1,7 +1,7 @@
 # TOOL 7SINS #
 <img src="https://github.com/RED-DEMON-ANNOS/RED-DEMON-ANNOS/blob/main/IMAGEI/FB_IMG_16557430804770182.jpg" width="240" height="240" align="center">
 <center>
-____Programming And Memes____
+____Anime And Memes____
 
 <a href="https://github.com/RED-DEMON-ANNOS/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/RED-DEMON-ANNOS?label=Followers&color=red&style=flat-square"></a>
@@ -42,7 +42,7 @@ ____Programming And Memes____
 ➤ python 7SINS.py
 ```
 
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RED-DEMON-ANNOS.visitor-badge&left_text=MyPageVisitors)
 #### MY SOCIAL MEDIA
 
 [![](https://img.shields.io/badge/Github-red?logo=Github&logoColor=red&labelColor=black)](https://github.com/RED-DEMON-ANNOS) <br>
